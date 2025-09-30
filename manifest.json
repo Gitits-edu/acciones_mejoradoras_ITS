@@ -1,6 +1,6 @@
 {
-    "name": "convivencia",
-    "short_name": "convivencia",
+    "name": "calcunotas",
+    "short_name": "calcunotas",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
